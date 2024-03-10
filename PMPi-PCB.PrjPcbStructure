@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=PMPi-PCB.SchDoc|SheetNumber=2
+Record=SheetSymbol|SourceDocument=PMPi-PCB.SchDoc|Designator=U_GPIB|SchDesignator=U_GPIB|FileName=GPIB.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=GPIB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PMPi-PCB.SchDoc|Designator=U_Pico|SchDesignator=U_Pico|FileName=Pico.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Pico.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=PMPi-PCB.SchDoc|FileName=Ext_Components.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=PMPi-PCB.SchDoc|FileName=Power.SchDoc|SheetNumber=5
