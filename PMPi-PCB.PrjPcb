@@ -51,6 +51,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=PMPi-PCB-V2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RJHOKYIJ
+
+[Document2]
+DocumentPath=PMPi-PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XGIILGOH
+
+[Document3]
 DocumentPath=Assembly.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -67,7 +101,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document2]
+[Document4]
 DocumentPath=Documentation.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -84,7 +118,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document3]
+[Document5]
 DocumentPath=Fabrication.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -101,7 +135,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document6]
 DocumentPath=Ext_Components.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -118,7 +152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document7]
 DocumentPath=GPIB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -135,7 +169,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FWKHQMTY
 
-[Document6]
+[Document8]
 DocumentPath=GPIB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -152,7 +186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document9]
 DocumentPath=Pico.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -169,7 +203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTZWQYYE
 
-[Document8]
+[Document10]
 DocumentPath=Pico.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,24 +220,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
-DocumentPath=PMPi-PCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RJHOKYIJ
-
-[Document10]
+[Document11]
 DocumentPath=PMPi-PCB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -220,7 +237,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPCZXZBH
 
-[Document11]
+[Document12]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -237,7 +254,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document13]
 DocumentPath=ActiveBOM.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,7 +271,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document14]
 DocumentPath=EEPROM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -271,7 +288,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VBREBOFK
 
-[Document14]
+[Document15]
 DocumentPath=EEPROM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -288,7 +305,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
 DocumentPath=TempProbe.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -305,7 +322,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HUVGAJVR
 
-[Document16]
+[Document17]
 DocumentPath=TempProbe.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1467,16 +1484,50 @@ Net21=NetName=I2C1_SCL|NetColor=$00FFFF6E
 Net22=NetName=I2C1_SDA|NetColor=$00FFFF6E
 Net23=NetName=iATN|NetColor=$0000BE00
 Net24=NetName=iDAV|NetColor=$006E6EFF
-Net25=NetName=MISO|NetColor=$0089007D
-Net26=NetName=MOSI|NetColor=$0089007D
-Net27=NetName=SCK|NetColor=$0089007D
-Net28=NetName=SPI0.MISO|NetColor=$0089007D
-Net29=NetName=SPI0.MOSI|NetColor=$0089007D
-Net30=NetName=SPI0.SCK|NetColor=$0089007D
-Net31=NetName=SPI0_CSn|NetColor=$0089007D
-Net32=NetName=SPI0_RX|NetColor=$0089007D
-Net33=NetName=SPI0_SCK|NetColor=$0089007D
-Net34=NetName=SPI0_TX|NetColor=$0089007D
+Net25=NetName=iDIO1|NetColor=$00FF6E6E
+Net26=NetName=iDIO2|NetColor=$00FF6E6E
+Net27=NetName=iDIO3|NetColor=$00FF6E6E
+Net28=NetName=iDIO4|NetColor=$00FF6E6E
+Net29=NetName=iDIO5|NetColor=$00FF6E6E
+Net30=NetName=iDIO6|NetColor=$00FF6E6E
+Net31=NetName=iDIO7|NetColor=$00FF6E6E
+Net32=NetName=iDIO8|NetColor=$00FF6E6E
+Net33=NetName=iEOI|NetColor=$0000BE00
+Net34=NetName=IFC|NetColor=$0000BE00
+Net35=NetName=iGPIB.iATN|NetColor=$0000BE00
+Net36=NetName=iGPIB.iDIO1|NetColor=$00FF6E6E
+Net37=NetName=iGPIB.iDIO2|NetColor=$00FF6E6E
+Net38=NetName=iGPIB.iDIO3|NetColor=$00FF6E6E
+Net39=NetName=iGPIB.iDIO4|NetColor=$00FF6E6E
+Net40=NetName=iGPIB.iDIO5|NetColor=$00FF6E6E
+Net41=NetName=iGPIB.iDIO6|NetColor=$00FF6E6E
+Net42=NetName=iGPIB.iDIO7|NetColor=$00FF6E6E
+Net43=NetName=iGPIB.iDIO8|NetColor=$00FF6E6E
+Net44=NetName=iGPIB.iEOI|NetColor=$0000BE00
+Net45=NetName=iGPIB.iIFC|NetColor=$0000BE00
+Net46=NetName=iGPIB.iNDAC|NetColor=$006E6EFF
+Net47=NetName=iGPIB.iNRFD|NetColor=$006E6EFF
+Net48=NetName=iGPIB.iREN|NetColor=$0000BE00
+Net49=NetName=iGPIB.iSRQ|NetColor=$0000BE00
+Net50=NetName=iIFC|NetColor=$0000BE00
+Net51=NetName=iNDAC|NetColor=$006E6EFF
+Net52=NetName=iNRFD|NetColor=$006E6EFF
+Net53=NetName=iREN|NetColor=$0000BE00
+Net54=NetName=iSRQ|NetColor=$0000BE00
+Net55=NetName=MISO|NetColor=$0089007D
+Net56=NetName=MOSI|NetColor=$0089007D
+Net57=NetName=NDAC|NetColor=$006E6EFF
+Net58=NetName=NRFD|NetColor=$006E6EFF
+Net59=NetName=REN|NetColor=$0000BE00
+Net60=NetName=SCK|NetColor=$0089007D
+Net61=NetName=SPI0.MISO|NetColor=$0089007D
+Net62=NetName=SPI0.MOSI|NetColor=$0089007D
+Net63=NetName=SPI0.SCK|NetColor=$0089007D
+Net64=NetName=SPI0_CSn|NetColor=$0089007D
+Net65=NetName=SPI0_RX|NetColor=$0089007D
+Net66=NetName=SPI0_SCK|NetColor=$0089007D
+Net67=NetName=SPI0_TX|NetColor=$0089007D
+Net68=NetName=SRQ|NetColor=$0000BE00
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
