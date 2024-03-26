@@ -378,28 +378,24 @@ DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Soldermask_Top
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Version
-Value=v1.1.0
+Name=Author
+Value=IR
 
 [Parameter2]
-Name=Revision
-Value=1
+Name=DrawnBy
+Value=IR
 
 [Parameter3]
 Name=Project
 Value=PMPi-PCB
 
 [Parameter4]
-Name=DrawnBy
-Value=IR
+Name=Revision
+Value=1
 
 [Parameter5]
-Name=Author
-Value=IR
-
-[Parameter6]
-Name=
-Value=
+Name=Version
+Value=v1.1.0
 
 [Configuration1]
 Name=Default Configuration
