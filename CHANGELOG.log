@@ -1,0 +1,85 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [1.2.0] - 2024-03-27
+
+### 🚀 Features
+
+- :sparkles: Route temp sensor and i2c EEPROM
+
+### 🐛 Bug Fixes
+
+- :bug: Output OE to be controlled and reorient management bus
+- :art: Redo GND via stitching
+
+### 📚 Documentation
+
+- :memo: Quick overview page
+
+### 🎨 Styling
+
+- :lipstick: Add insignia
+- :art: Include component values and redo logo and QR Code
+- :lipstick: Introduce new title block with insignia
+- :art: Cleaned up circuit placement and renamed OE and HOLD entries
+
+### ⚙️ Miscellaneous Tasks
+
+- :sparkles: Include changes for OE input, and new PCB components
+- :see_no_evil: Ignore Images folder as images are embedded
+- :wrench: bump save state
+- :bookmark: Bump version for release
+
+### Build
+
+- :technologist: Add VSCode task for standard-version
+- :wrench: Add note about exporting to Gerber for JLCPCB
+
+## [1.1.0] - 2024-03-21
+
+### 🚀 Features
+
+- :sparkles: Add additional EEPROM via I2C
+
+### 🐛 Bug Fixes
+
+- :bug: Connected shield net
+
+### 🚜 Refactor
+
+- :recycle: Reroute pins to maintain sequential order on GPIB input
+- :zap: Replace temp sensor for a smaller one, ommiting ALERT function
+
+### ⚙️ Miscellaneous Tasks
+
+- :wastebasket: Remove unused schematics
+- :wrench: Update structure file
+
+### Build
+
+- :wrench: Do not generate reports
+
+## [1.0.0] - 2024-03-16
+
+### 🚜 Refactor
+
+- :bento: Update Pico and header models
+- :zap: Reduce PCB size
+
+### Build
+
+- :wrench: Update project files
+
+## [0.1.0] - 2024-03-16
+
+### 🚀 Features
+
+- *(silkscreen)* :art: Added PMPi title
+- :sparkles: Added SPI EEPROM and I2C Temperature probe
+
+## [0.0.0] - 2024-03-10
+
+### 🚀 Features
+
+- :sparkles: Initial Commit
