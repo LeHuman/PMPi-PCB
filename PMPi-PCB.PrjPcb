@@ -306,75 +306,659 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs\Design Rule Check - PMPi-PCB.html
+DocumentPath=Project Outputs\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Capping.gbr
+DocumentPath=Project Outputs\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Copper_Signal_1.gbr
+DocumentPath=Project Outputs\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Copper_Signal_2.gbr
+DocumentPath=Project Outputs\Design Rule Check - PMPi-PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Copper_Signal_3.gbr
+DocumentPath=Project Outputs\odb\steps\pcb\layers\bottom_copper\features
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Copper_Signal_4.gbr
+DocumentPath=Project Outputs\odb\steps\pcb\layers\bottom_mask\features
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Filling.gbr
+DocumentPath=Project Outputs\odb\steps\pcb\layers\capping\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Legend_Bot.gbr
+DocumentPath=Project Outputs\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Legend_Top.gbr
+DocumentPath=Project Outputs\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_NPTH_Drill.gbr
+DocumentPath=Project Outputs\odb\steps\pcb\layers\core_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Paste_Bot.gbr
+DocumentPath=Project Outputs\odb\steps\pcb\layers\core_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Paste_Top.gbr
+DocumentPath=Project Outputs\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Profile.gbr
+DocumentPath=Project Outputs\odb\steps\pcb\layers\dielectric_2\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_PTH_Drill.gbr
+DocumentPath=Project Outputs\odb\steps\pcb\layers\dielectric_3\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Soldermask_Bot.gbr
+DocumentPath=Project Outputs\odb\steps\pcb\layers\drill_non-plated_bottom_copper-top_copper\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\drill_plated_bottom_copper-top_copper\features
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\filling\features
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\signal_layer_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\signal_layer_2\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\signal_layer_3\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\signal_layer_4\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\top_copper\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\top_mask\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.1
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.2
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.3
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.4
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.5
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs\Fabrication\NC Drill\PCB_PART_NUMBER.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.G1
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.G2
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.G3
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.G4
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GM
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GM21
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GM23
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GM24
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GM32767
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GML
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs\Fabrication\Gerber\PCB_PART_NUMBER.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs\Fabrication\NC Drill\PCB_PART_NUMBER.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs\Fabrication\NC Drill\PCB_PART_NUMBER.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Capping.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Copper_Signal_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Copper_Signal_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Filling.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument88]
 DocumentPath=Project Outputs\Fabrication\GerberX2\PCB_PART_NUMBER_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs\PMPi-PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs\PMPi-PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs\PMPi-PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs\PMPi-PCB.G3
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs\PMPi-PCB.G4
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs\PMPi-PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs\PMPi-PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs\PMPi-PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs\PMPi-PCB.GBR1
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs\PMPi-PCB.GBR2
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs\PMPi-PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Project Outputs\PMPi-PCB.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Project Outputs\PMPi-PCB.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Project Outputs\PMPi-PCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Project Outputs\PMPi-PCB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Project Outputs\PMPi-PCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Project Outputs\PMPi-PCB.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Project Outputs\PMPi-PCB.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Project Outputs\PMPi-PCB.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Project Outputs\PMPi-PCB.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Project Outputs\PMPi-PCB.GM6
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Project Outputs\PMPi-PCB.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Project Outputs\PMPi-PCB.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Project Outputs\PMPi-PCB.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Project Outputs\PMPi-PCB.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Project Outputs\PMPi-PCB.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=Project Outputs\PMPi-PCB.GM21
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Project Outputs\PMPi-PCB.GM23
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=Project Outputs\PMPi-PCB.GM24
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=Project Outputs\PMPi-PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=Project Outputs\PMPi-PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=Project Outputs\PMPi-PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Project Outputs\PMPi-PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project Outputs\PMPi-PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Project Outputs\PMPi-PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Project Outputs\PMPi-PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=Project Outputs\PMPi-PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Project Outputs\PMPi-PCB.zip
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=Project Outputs\PMPi-PCB_Bottom_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=Project Outputs\PMPi-PCB_Bottom_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=Project Outputs\PMPi-PCB_Bottom_Component_Center.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath=Project Outputs\PMPi-PCB_Bottom_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=Project Outputs\PMPi-PCB_Capping.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument132]
+DocumentPath=Project Outputs\PMPi-PCB_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument133]
+DocumentPath=Project Outputs\PMPi-PCB_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument134]
+DocumentPath=Project Outputs\PMPi-PCB_Copper_Signal_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument135]
+DocumentPath=Project Outputs\PMPi-PCB_Copper_Signal_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument136]
+DocumentPath=Project Outputs\PMPi-PCB_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument137]
+DocumentPath=Project Outputs\PMPi-PCB_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument138]
+DocumentPath=Project Outputs\PMPi-PCB_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument139]
+DocumentPath=Project Outputs\PMPi-PCB_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument140]
+DocumentPath=Project Outputs\PMPi-PCB_Filling.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument141]
+DocumentPath=Project Outputs\PMPi-PCB_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument142]
+DocumentPath=Project Outputs\PMPi-PCB_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument143]
+DocumentPath=Project Outputs\PMPi-PCB_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument144]
+DocumentPath=Project Outputs\PMPi-PCB_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument145]
+DocumentPath=Project Outputs\PMPi-PCB_Mechanical_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument146]
+DocumentPath=Project Outputs\PMPi-PCB_Mechanical_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument147]
+DocumentPath=Project Outputs\PMPi-PCB_Mechanical_7.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument148]
+DocumentPath=Project Outputs\PMPi-PCB_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument149]
+DocumentPath=Project Outputs\PMPi-PCB_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument150]
+DocumentPath=Project Outputs\PMPi-PCB_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument151]
+DocumentPath=Project Outputs\PMPi-PCB_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument152]
+DocumentPath=Project Outputs\PMPi-PCB_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument153]
+DocumentPath=Project Outputs\PMPi-PCB_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument154]
+DocumentPath=Project Outputs\PMPi-PCB_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument155]
+DocumentPath=Project Outputs\PMPi-PCB_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument156]
+DocumentPath=Project Outputs\PMPi-PCB_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument157]
+DocumentPath=Project Outputs\PMPi-PCB_Top_3D_Body.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument158]
+DocumentPath=Project Outputs\PMPi-PCB_Top_Assembly.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument159]
+DocumentPath=Project Outputs\PMPi-PCB_Top_Component_Center.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument160]
+DocumentPath=Project Outputs\PMPi-PCB_Top_Courtyard.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument161]
+DocumentPath=Project Outputs\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument162]
+DocumentPath=Project Outputs\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument163]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\drill_non-plated_bottom_copper-top_copper\tools
+DItemRevisionGUID=
+
+[GeneratedDocument164]
+DocumentPath=Project Outputs\odb\steps\pcb\layers\drill_plated_bottom_copper-top_copper\tools
 DItemRevisionGUID=
 
 [Parameter1]
@@ -702,6 +1286,10 @@ OutputName2=ODB++ Files
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=Compression_None=False|Compression_tar_tgz=False|Compression_zip=True|DifferentFootprints=False|ExportPositivePlaneLayers=False|GenerateDRCRulesFile=False|IncludeUnconnectedMidLayerPads=False|IncludeVariantsData=False|MergeNetTieNets=False|ObjsInsideBoardOutlineOnly=False|ODBProfileLayer=-1000|ODBProfileLayerV7=-1|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBottomLayerPlot=True|PlotBottomOverlayPlot=True|PlotBottomPastePlot=True|PlotBottomSolderPlot=True|PlotCounterHolesPairs=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPair0_Plot=False|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePair0_Plot=False|PlotDrillGuidePairs=False|PlotInternalPlane10Plot=False|PlotInternalPlane11Plot=False|PlotInternalPlane12Plot=False|PlotInternalPlane13Plot=False|PlotInternalPlane14Plot=False|PlotInternalPlane15Plot=False|PlotInternalPlane16Plot=False|PlotInternalPlane1Plot=False|PlotInternalPlane2Plot=False|PlotInternalPlane3Plot=False|PlotInternalPlane4Plot=False|PlotInternalPlane5Plot=False|PlotInternalPlane6Plot=False|PlotInternalPlane7Plot=False|PlotInternalPlane8Plot=False|PlotInternalPlane9Plot=False|PlotKeepOutLayerPlot=False|PlotMechanical10Plot=False|PlotMechanical11Plot=False|PlotMechanical12Plot=False|PlotMechanical13Plot=False|PlotMechanical14Plot=False|PlotMechanical15Plot=False|PlotMechanical16Plot=False|PlotMechanical1Plot=False|PlotMechanical2Plot=True|PlotMechanical3Plot=True|PlotMechanical4Plot=False|PlotMechanical5Plot=False|PlotMechanical6Plot=False|PlotMechanical7Plot=False|PlotMechanical8Plot=False|PlotMechanical9Plot=False|PlotMicroViasPairs=False|PlotMidLayer10Plot=False|PlotMidLayer11Plot=False|PlotMidLayer12Plot=False|PlotMidLayer13Plot=False|PlotMidLayer14Plot=False|PlotMidLayer15Plot=False|PlotMidLayer16Plot=False|PlotMidLayer17Plot=False|PlotMidLayer18Plot=False|PlotMidLayer19Plot=False|PlotMidLayer1Plot=True|PlotMidLayer20Plot=False|PlotMidLayer21Plot=False|PlotMidLayer22Plot=False|PlotMidLayer23Plot=False|PlotMidLayer24Plot=False|PlotMidLayer25Plot=False|PlotMidLayer26Plot=False|PlotMidLayer27Plot=False|PlotMidLayer28Plot=False|PlotMidLayer29Plot=False|PlotMidLayer2Plot=True|PlotMidLayer30Plot=False|PlotMidLayer3Plot=True|PlotMidLayer4Plot=True|PlotMidLayer5Plot=False|PlotMidLayer6Plot=False|PlotMidLayer7Plot=False|PlotMidLayer8Plot=False|PlotMidLayer9Plot=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPair0_Plot=True|PlotNPTHPairs=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPair0_Plot=True|PlotPTHPairs=False|PlotTopLayerPlot=True|PlotTopOverlayPlot=True|PlotTopPastePlot=True|PlotTopSolderPlot=True|PlotViaTypeDrillDrawingPair0_DrillType=Regular|PlotViaTypeDrillDrawingPair0_HighLayer=Top Layer|PlotViaTypeDrillDrawingPair0_LowLayer=Bottom Layer|PlotViaTypeDrillDrawingPair0_Plot=False|PlotViaTypeDrillDrawingPair0_ViaStructureType=7|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePair0_DrillType=Regular|PlotViaTypeDrillGuidePair0_HighLayer=Top Layer|PlotViaTypeDrillGuidePair0_LowLayer=Bottom Layer|PlotViaTypeDrillGuidePair0_Plot=False|PlotViaTypeDrillGuidePair0_ViaStructureType=7|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPair0_DrillType=Regular|PlotViaTypeDrillPair0_HighLayer=Top Layer|PlotViaTypeDrillPair0_LowLayer=Bottom Layer|PlotViaTypeDrillPair0_Plot=False|PlotViaTypeDrillPair0_ViaStructureType=7|PlotViaTypeDrillPairs=False|Record=ODBView|ToolsByDrillSymbols=False|Units=Imperial|DocumentPath=F:\GitHub\PMPi-PCB\PMPi-PCB.PcbDoc
 OutputType3=Plane
 OutputName3=Power-Plane Prints
 OutputDocumentPath3=
@@ -721,12 +1309,16 @@ OutputDefault5=0
 Configuration5_Name1=ForceUpdateSettings
 Configuration5_Item1=False
 Configuration5_Name2=OutputConfigurationParameter1
-Configuration5_Item2=BoardID=XGIILGOH|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_Checked=True|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_FileName= |PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_Checked=True|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_FileName= |PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_Checked=True|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_FileName= |PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_Checked=True|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_FileName= |PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16777220~1,16777221~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908292~1,16908293~1,16908294~1,16908295~1,16908301~1,16908303~1,16908304~1,16908308~1,16908309~1,16908311~1,16908312~1,16973837~1,16973848~1,16973849~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|DocumentPath=F:\GitHub\PMPi-PCB\PMPi-PCB.PcbDoc
+Configuration5_Item2=BoardID=XGIILGOH|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=False|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_Checked=True|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_FileName= |PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_Checked=True|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_FileName= |PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_Checked=True|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_FileName= |PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_Checked=True|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_FileName= |PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16777220~1,16777221~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908292~1,16908293~1,16908294~1,16908295~1,16908301~1,16908303~1,16908304~1,16908308~1,16908309~1,16908311~1,16908312~1,16973848~1,16973849~1,16908290~1,16908291~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|DocumentPath=F:\GitHub\PMPi-PCB\PMPi-PCB.PcbDoc
 OutputType6=NC Drill
 OutputName6=NC Drill Files
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+Configuration6_Name1=ForceUpdateSettings
+Configuration6_Item1=False
+Configuration6_Name2=OutputConfigurationParameter1
+Configuration6_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=F:\GitHub\PMPi-PCB\PMPi-PCB.PcbDoc
 OutputType7=Drill
 OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
@@ -761,8 +1353,10 @@ OutputName12=Gerber Files
 OutputDocumentPath12=
 OutputVariantName12=[No Variations]
 OutputDefault12=0
-Configuration12_Name1=OutputConfigurationParameter1
-Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777220~1,16842753~1,16777218~1,16777219~1,16842754~1,16777221~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908293~1,16908301~1,16908302~1,16908303~1,16908311~1,16908312~1,16908315~1,16908316~1,16908317~1,16908318~1,16908319~1,16908320~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=XGIILGOH|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=False|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973834~1,16777217~1,16777220~1,16777218~1,16777219~1,16777221~1,16842751~1,16973835~1,16973831~1,16908290~1,16908291~1,16908289~1,16973832~1,16973833~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=F:\GitHub\PMPi-PCB\PMPi-PCB.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
