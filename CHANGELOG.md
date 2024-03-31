@@ -8,6 +8,14 @@ All notable changes to this project will be documented in this file.
 
 - :sparkles: Add holes for M2
 
+### 📚 Documentation
+
+- :memo: Update CHANGELOG.md
+
+### ⚙️ Miscellaneous Tasks
+
+- :rewind: Repour shelved polygons and readd via stitching
+
 ## [1.3.0] - 2024-03-31
 
 ### 🐛 Bug Fixes
