@@ -2,11 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.1] - 2024-03-31
+
+### 🚀 Features
+
+- :sparkles: Add holes for M2
+
 ## [1.3.0] - 2024-03-31
 
 ### 🐛 Bug Fixes
 
 - :zap: Flip GPIB Connector
+
+### 📚 Documentation
+
+- :memo: Update CHANGELOG.md
+
+### ⚙️ Miscellaneous Tasks
+
+- :bookmark: Bump version for release
 
 ## [1.2.1] - 2024-03-31
 
