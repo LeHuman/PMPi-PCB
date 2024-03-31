@@ -311,7 +311,7 @@ Value=
 
 [Parameter2]
 Name=Version
-Value=v1.3.1
+Value=v1.4.0
 
 [Parameter3]
 Name=Revision
