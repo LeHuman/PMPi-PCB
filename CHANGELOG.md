@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.4.0] - 2024-03-31
+
+### 🐛 Bug Fixes
+
+- :bug: ROTATE the connector to allow for the board to face up when attached.
+
+### 📚 Documentation
+
+- :memo: Update CHANGELOG.md
+
 ## [1.3.1] - 2024-03-31
 
 ### 🚀 Features
