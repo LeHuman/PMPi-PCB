@@ -305,33 +305,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs\Design Rule Check - PMPi-PCB.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=
-Value=
+Name=Version
+Value=v1.3.0
 
 [Parameter2]
-Name=Version
-Value=v1.2.0
-
-[Parameter3]
 Name=Revision
 Value=1
 
-[Parameter4]
+[Parameter3]
 Name=Project
 Value=PMPi-PCB
 
-[Parameter5]
+[Parameter4]
 Name=DrawnBy
 Value=IR
 
-[Parameter6]
+[Parameter5]
 Name=Author
 Value=IR
-
-[Parameter7]
-Name=
-Value=
 
 [Configuration1]
 Name=Default Configuration
