@@ -306,26 +306,30 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=
-Value=
-
-[Parameter2]
 Name=Version
 Value=v1.4.0
 
-[Parameter3]
+[Parameter2]
 Name=Revision
 Value=1
 
-[Parameter4]
+[Parameter3]
 Name=Project
 Value=PMPi-PCB
 
+[Parameter4]
+Name=LicenceYear
+Value=Copyright © 2024
+
 [Parameter5]
+Name=Licence
+Value=Licenced under CERN-OHL-P v2
+
+[Parameter6]
 Name=DrawnBy
 Value=IR
 
-[Parameter6]
+[Parameter7]
 Name=Author
 Value=IR
 
