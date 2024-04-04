@@ -2,6 +2,45 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.5.2] - 2024-04-04
+
+### 🚀 Features
+
+- :zap: Add 4.7uF decoupling capacitors
+
+### 🚜 Refactor
+
+- :truck: Rename EEPROM to Memory
+
+### ⚙️ Miscellaneous Tasks
+
+- :sparkles: Route new memory modules
+- :bookmark: Bump version to v1.5.2
+
+## [1.5.1] - 2024-04-04
+
+### 🐛 Bug Fixes
+
+- :zap: Change CS pull-up to 47k
+
+### 🎨 Styling
+
+- :lipstick: Update schematic format and fix title blocks
+
+## [1.5.0] - 2024-04-04
+
+### 🚀 Features
+
+- :sparkles: Replace SPI EEPROM for FLASH Memory and make I2C EEPROM larger
+
+### 📚 Documentation
+
+- :memo: update CHANGELOG.md
+
+### ⚙️ Miscellaneous Tasks
+
+- :page_facing_up: Create LICENCE
+
 ## [1.4.0] - 2024-03-31
 
 ### 🐛 Bug Fixes
