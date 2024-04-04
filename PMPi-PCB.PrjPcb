@@ -74,7 +74,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -238,7 +238,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=EEPROM.SchDoc
+DocumentPath=Memory.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -255,7 +255,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VBREBOFK
 
 [Document13]
-DocumentPath=EEPROM.Harness
+DocumentPath=Memory.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -306,32 +306,32 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Version
-Value=v1.4.0
+Name=Author
+Value=IR
 
 [Parameter2]
-Name=Revision
-Value=1
+Name=DrawnBy
+Value=IR
 
 [Parameter3]
-Name=Project
-Value=PMPi-PCB
+Name=Licence
+Value=Licenced under CERN-OHL-P v2
 
 [Parameter4]
 Name=LicenceYear
 Value=Copyright © 2024
 
 [Parameter5]
-Name=Licence
-Value=Licenced under CERN-OHL-P v2
+Name=Project
+Value=PMPi-PCB
 
 [Parameter6]
-Name=DrawnBy
-Value=IR
+Name=Revision
+Value=1
 
 [Parameter7]
-Name=Author
-Value=IR
+Name=Version
+Value=v1.4.0
 
 [Configuration1]
 Name=Default Configuration
