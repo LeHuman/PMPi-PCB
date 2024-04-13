@@ -305,37 +305,67 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document16]
+DocumentPath=Auth.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AJGQCCRK
+
+[Document17]
+DocumentPath=Auth.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Parameter1]
-Name=
-Value=
+Name=Author
+Value=IR
 
 [Parameter2]
-Name=Version
-Value=v1.5.2
-
-[Parameter3]
-Name=Revision
-Value=1
-
-[Parameter4]
-Name=Project
-Value=PMPi-PCB
-
-[Parameter5]
-Name=LicenceYear
-Value=Copyright © 2024
-
-[Parameter6]
-Name=Licence
-Value=Licenced under CERN-OHL-P v2
-
-[Parameter7]
 Name=DrawnBy
 Value=IR
 
-[Parameter8]
-Name=Author
-Value=IR
+[Parameter3]
+Name=Licence
+Value=Licenced under CERN-OHL-P v2
+
+[Parameter4]
+Name=LicenceYear
+Value=Copyright © 2024
+
+[Parameter5]
+Name=Project
+Value=PMPi-PCB
+
+[Parameter6]
+Name=Revision
+Value=1
+
+[Parameter7]
+Name=Version
+Value=v1.5.2
 
 [Configuration1]
 Name=Default Configuration
