@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.6.0] - 2024-04-13
+
+### 🚀 Features
+
+- :sparkles: Add Authentication IC
+
+### 🚜 Refactor
+
+- :art: Update TempProbe with footprint overlay reduced
+
+### 📚 Documentation
+
+- :memo: Update CHANGELOG.md
+
+### ⚙️ Miscellaneous Tasks
+
+- :lipstick: Cleanup silkscreen, repour and stitch, bump version
+- :bookmark: Fix version to v1.6.0
+
 ## [1.5.2] - 2024-04-04
 
 ### 🚀 Features
