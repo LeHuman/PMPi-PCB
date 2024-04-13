@@ -345,7 +345,7 @@ DItemRevisionGUID=
 
 [Parameter1]
 Name=Version
-Value=v1.6.2
+Value=v1.6.0
 
 [Parameter2]
 Name=Revision
