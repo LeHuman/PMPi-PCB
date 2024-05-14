@@ -24,10 +24,10 @@ Please refer to the [parent repository](https://github.com/LeHuman/PMPi)
 
 ### v1.6.0
 
-![PMPi-v1.6.0](Images/PCB/PMPi-v1.6.0.png)
+![PMPi-v1.6.0](Images/PCB/PMPi-v1.6.0.png) \
 *Version 1.6.0 of the PMPi PCB*
 
 ### v1.2.0
 
-![PMPi-v1.2.0](Images/PCB/PMPi-v1.2.0.png)
+![PMPi-v1.2.0](Images/PCB/PMPi-v1.2.0.png) \
 *Version 1.2.0 of the PMPi PCB*
