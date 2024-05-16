@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PMPi-PCB</title>
+    <style>
+        html, body, .altium-ecad-viewer {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+    </style>
+</head>
+<body>
+
+<div class="altium-ecad-viewer"
+    data-project-src="https://github.com/LeHuman/PMPi-PCB/archive/master.zip"
+    data-enabled-views="sch,pcb,3d,bom,stackup"
+    data-active-view="pcb"
+    use-border="false"
+></div>
+<script src="https://viewer.altium.com/client/static/js/embed.js"></script>
+
+<script>
+    window.addEventListener('load', function() {
+        var generatedDiv = document.querySelector('.altium-ecad-viewer');
+        generatedDiv.removeAttribute('style');
+    });
+</script>
+
+</body>
+</html>
