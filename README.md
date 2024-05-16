@@ -36,6 +36,8 @@ This project is made in Altium, but will be converted, where possible, to a KiCa
 
 ## PCB Gallery
 
+Get an up to date view of this project using the [Altium Viewer](https://lehuman.github.io/PMPi-PCB/) hosted on GitHub pages.
+
 ### v1.6.0
 
 ![PMPi-v1.6.0](Images/PCB/PMPi-v1.6.0.png) \
