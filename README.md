@@ -3,7 +3,7 @@
 <!-- FONT: IBM Plex -->
 <!-- KEYWORDS: Controller, Raspberry Pi Pico W, Embedded, PCB, Hardware -->
 <!-- TECHNOLOGY: Altium -->
-<!-- STATUS: Work In Progress -->
+<!-- STATUS: Prototype -->
 
 ![PMPi-PCB-Logo](<Images/PMPi PCB.png>)
 
@@ -11,8 +11,8 @@
 
 ## Status
 
-**`Work In progress`**
-> *Prototype boards have been received and are yet to be assembled - May 2024*
+**`Prototype`**
+> *Finished Prototype, working on firmware and case - July 2024*
 
 ## About
 <!-- DESCRIPTION START -->
@@ -37,6 +37,12 @@ This project is made in Altium, but will be converted, where possible, to a KiCa
 ## PCB Gallery
 
 Get an up to date view of this project using the [Altium Viewer](https://lehuman.github.io/PMPi-PCB/) hosted on GitHub pages.
+
+### v1.6.0p
+
+![PMPi-v1.6.0p](Images/PCB/PMPi-v1.6.0p.png) \
+*Version 1.6.0 of the PMPi PCB Assembled* \
+*p for prototype*
 
 ### v1.6.0
 
