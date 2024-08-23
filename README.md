@@ -3,14 +3,15 @@
 <!-- FONT: IBM Plex -->
 <!-- KEYWORDS: Controller, Raspberry Pi Pico W, Embedded, PCB, Hardware -->
 <!-- TECHNOLOGY: Altium -->
-<!-- STATUS: Prototype -->
 
+<!-- LOGO -->
 ![PMPi-PCB-Logo](<Images/PMPi PCB.png>)
 
 [About](#about) - [Usage](#usage) - [Related](#related) - [PCB Gallery](#pcb-gallery) - [License](#license)
 
 ## Status
 
+<!-- STATUS -->
 **`Prototype`**
 > *Finished Prototype, working on firmware and case - July 2024*
 
@@ -40,6 +41,7 @@ Get an up to date view of this project using the [Altium Viewer](https://lehuman
 
 ### v1.6.0p
 
+<!-- HIGHLIGHT -->
 ![PMPi-v1.6.0p](Images/PCB/PMPi-v1.6.0p.png) \
 *Version 1.6.0 of the PMPi PCB Assembled* \
 *p for prototype*
